@@ -4,5 +4,211 @@
 https://scontent.fbsr18-1.fna.fbcdn.net/hvideo-cln-odn/_nc_cat-1/_nc_sr_t-4/v/rASe1Pmi5IblXY-fBVmAEnWfANp-Y4phFkCa-Tnzz6vjjOw/_nc_ohc-22RTtbo0Cb8Q7kNvwHUu6Fs/live-dash/dash-abr-ibr-audio/1425519799613141.mpd?_nc_eui2=AeGLR-oSxkQ3ALxRosqrqjHU-lUle61yaB36VSV7rXJoHWYmtZBpSvb5vJYAWbrpKQGZVb0fx_Iw9pEbABS0P5On&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfyI4t3H9VdAI6_ShwwR6M0JlvOghq8PqRVuBmIUp_QWAw&oe=69BDFC4C
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/BeIN_Sports_logo.svg", beIN SPORTS 2
-https://www2.manar1.beauty/x1/1.json?token=bca78b706f2ff45faf421846c6263159e861b3d0f0b8ef142595e5f60fbaf463&expires=1773972698
-#EXTINf:-1 #EXT-X-VERSION:6 #EXT-X-START:TIME-OFFSET=0.01 #EXT-X-STREAM-INF:BANDWIDTH=290400,RESOLUTION=320x180 1_0.json?token=673b43d3e4952aca42d86d7da236489606b229b10534a2ca385a6b1f9245a142&expires=1773972698 #EXT-X-STREAM-INF:BANDWIDTH=466400,RESOLUTION=640x360 1_1.json?token=b8b890223b76cbea907b59d17e994748e2c485269939e5347560ae2b49e802c5&expires=1773972698 #EXT-X-STREAM-INF:BANDWIDTH=598400,RESOLUTION=854x480 1_2.json?token=30b7cde08a75fd71a707bb68c1c7a2c2e8f80a52cb5ff3dae550b17c052a8d61&expires=1773972698 #EXT-X-STREAM-INF:BANDWIDTH=862400,RESOLUTION=1280x720 1_3.json?token=e7b1de0b29aa016bd9e22b7f8abbf0747c3b41ceda33f9d82221b3fadf6a61be&expires=1773972698 #EXT-X-STREAM-INF:BANDWIDTH=1258400,RESOLUTION=1920x1078 1_4.json?token=d29ed40c3a2e669d93563fb49cddab8dc43d495dda1ba0695442e98d27700e42&expires=1773972698 
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="" tvg-logo="http://infinity-logo.ddns.net/images/flag/123/arabicsport.png",•●★★--BEIN SPORTS| OTT--★★●•
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/35155.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSportsNews.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSportsNewsqa.png",AR| BEIN SPORTS NEWS HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13815.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSportsNewsqa.png",AR| BEIN SPORTS GLOBAL HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13814.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax1.png",|AR| BEIN SPORTS MAX 1 4K
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1403188.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax2.png",|AR| BEIN SPORTS MAX 2 4K
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1403187.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax3.png",|AR| BEIN SPORTS MAX 3 4K
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1403186.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax4.png",|AR| BEIN SPORTS MAX 4 4K
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1403185.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax1.png",|AR| BEIN SPORTS MAX 1 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1403184.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax2.png",|AR| BEIN SPORTS MAX 2 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1403183.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax3.png",|AR| BEIN SPORTS MAX 3 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1403182.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax4.png",|AR| BEIN SPORTS MAX 4 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1403181.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax1.png",|AR| BEIN SPORTS MAX 1 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1403180.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax2.png",|AR| BEIN SPORTS MAX 2 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1403179.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax3.png",|AR| BEIN SPORTS MAX 3 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1403178.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsmax4.png",|AR| BEIN SPORTS MAX 4 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1403177.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports1.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports1qa.png",AR| BEIN SPORTS 1 FHD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13816.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports1Ar.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo/BEIN/BEIN.SPORTS.1.png",AR| BEIN SPORTS 1 H.265
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237137.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports1.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo/bein/bs1.png",AR| BEIN SPORTS 1 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13817.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports1.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports1qa.png",AR| BEIN SPORTS 1 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13818.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports1.png",AR| BEIN SPORTS 1 FULL ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402589.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports1.png",AR| BEIN SPORTS 1 720P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402579.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports1.png",AR| BEIN SPORTS 1 480P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402569.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports1.png",AR| BEIN SPORTS 1 H265 ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402600.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports2.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports2qa.png",AR| BEIN SPORTS 2 FHD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13819.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports2Ar.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo/BEIN/BEINSPORT21.2MB.png",AR| BEIN SPORTS 2 H.265
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237138.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports2.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports2qa.png",AR| BEIN SPORTS 2 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13820.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports2.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports2qa.png",AR| BEIN SPORTS 2 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13821.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports2.png",AR| BEIN SPORTS 2 FULL ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402588.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports2.png",AR| BEIN SPORTS 2 720P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402578.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports2.png",AR| BEIN SPORTS 2 480P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402568.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports2.png",AR| BEIN SPORTS 2 H265 ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402599.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports3.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports3qa.png",AR| BEIN SPORTS 3 FHD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13822.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports3En.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo/bein/bs3-premium.png",AR| BEIN SPORTS 3 H.265
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237143.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports3.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports3qa.png",AR| BEIN SPORTS 3 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13823.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports3.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports3qa.png",AR| BEIN SPORTS 3 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13824.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports3.png",AR| BEIN SPORTS 3 FULL ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402587.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports3.png",AR| BEIN SPORTS 3 720P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402577.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports3.png",AR| BEIN SPORTS 3 480P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402567.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports3.png",AR| BEIN SPORTS 3 H265 ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402598.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports4.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports4qa.png",AR| BEIN SPORTS 4 FHD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13825.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports4Ar.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo/BEIN/BEINSPORT41.2MB.png",AR| BEIN SPORTS 4 H.265
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237139.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports4.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports4qa.png",AR| BEIN SPORTS 4 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13826.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports4.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports4qa.png",AR| BEIN SPORTS 4 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13827.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports4.png",AR| BEIN SPORTS 4 FULL ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402586.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports4.png",AR| BEIN SPORTS 4 720P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402576.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports4.png",AR| BEIN SPORTS 4 480P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402566.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports4.png",AR| BEIN SPORTS 4 H265 ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402597.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports5Ar.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports5qa.png",AR| BEIN SPORTS 5 FHD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13828.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo/BEIN/BEINSPORT51.2MB.png",AR| BEIN SPORTS 5 H.265
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237140.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports5.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports5qa.png",AR| BEIN SPORTS 5 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13829.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports5.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports5qa.png",AR| BEIN SPORTS 5 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13830.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports5.png",AR| BEIN SPORTS 5 FULL ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402585.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports5.png",AR| BEIN SPORTS 5 720P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402575.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports5.png",AR| BEIN SPORTS 5 480P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402565.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports5.png",AR| BEIN SPORTS 5 H265 ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402596.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports6.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports6qa.png",AR| BEIN SPORTS 6 FHD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13831.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports6Ar.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo/BEIN/BEINSPORT61.2MB.png",AR| BEIN SPORTS 6 H.265
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237141.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports6.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports6qa.png",AR| BEIN SPORTS 6 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13832.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports6.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports6qa.png",AR| BEIN SPORTS 6 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13833.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports6.png",AR| BEIN SPORTS 6 FULL ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402584.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports6.png",AR| BEIN SPORTS 6 720P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402574.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports6.png",AR| BEIN SPORTS 6 480P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402564.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports6.png",AR| BEIN SPORTS 6 H265 ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402595.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports7.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports7qa.png",AR| BEIN SPORTS 7 FHD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13834.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports7Ar.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo/BEIN/BEINSPORT71.2MB.png",AR| BEIN SPORTS 7 H.265
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237142.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports7.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports7qa.png",AR| BEIN SPORTS 7 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13835.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports7.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/beINSports7qa.png",AR| BEIN SPORTS 7 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13836.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports7.png",AR| BEIN SPORTS 7 FULL ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402583.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports7.png",AR| BEIN SPORTS 7 720P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402573.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports7.png",AR| BEIN SPORTS 7 480P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402563.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports7.png",AR| BEIN SPORTS 7 H265 ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402594.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports8En.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports8.png",AR| BEIN SPORTS 8 FHD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13837.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports8.png",AR| BEIN SPORTS 8 H.265
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237134.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports8.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports8.png",AR| BEINSPORTS 8 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13838.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports10Ar.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo/bein/bs3-premium.png",AR| BEIN SPORTS 8 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13844.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports8.png",AR| BEIN SPORTS 8 FULL ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402582.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports8.png",AR| BEIN SPORTS 8 720P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402572.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports8.png",AR| BEIN SPORTS 8 H265 ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402593.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports9.png",AR| BEIN SPORTS 9 H265 ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402592.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports9.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports9.png",AR| BEIN SPORTS 9  FHD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13840.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports9.png",AR| BEIN SPORTS 9 H.265
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237135.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports9.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports9.png",AR| BEIN SPORTS 9 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13841.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports10Ar.qa" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports9.png",AR| BEIN SPORTS 9 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/13843.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports9.png",AR| BEIN SPORTS 9 FULL ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402581.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports9.png",AR| BEIN SPORTS 9 720P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402571.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports1En.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEIN.SPORTS.1.ENGLISH.png",AR| BEIN SPORTS 1 ENGLISH SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237126.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports1En.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEIN.SPORTS.1.ENGLISH.png",AR| BEIN SPORTS 1 ENGLISH HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237128.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports2En.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEIN.SPORTS.2.ENGLISH.png",AR|BEIN SPORTS 2 ENGLISH SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237125.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports2En.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEIN.SPORTS.2.ENGLISH.png",AR| BEIN SPORTS 2 ENGLISH HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237129.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSportsNBAAr.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEIN.SPORTS.NBA.png",AR| BEIN SPORTS NBA FHD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237124.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png",AR| Bein Sport Xtra 1 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1202998.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png",AR| Bein Sport Xtra 2 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1202997.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png",AR| Bein Sport Xtra 3 HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1202996.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png",AR| Bein Sport Xtra 1 4K
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1202995.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png",AR| Bein Sport Xtra 2 4K
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1202994.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png",AR| Bein Sport Xtra 3 4K
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1202993.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png",AR| BEIN SPORTS XTRA 1 FULL ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402580.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png",AR| Bein Sport Xtra 1 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1202992.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png",AR| Bein Sport Xtra 2 SD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1202991.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsports.png",AR| BEIN SPORTS 4K UHD ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402601.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png",AR| BEIN SPORTS XTRA 1 H265 ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402591.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra2.png",AR| BEIN SPORTS XTRA 2 ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402590.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="None" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/beinsportsxtra.png",AR| BEIN SPORTS XTRA1 720P ( SOURCE 2 )
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402570.ts
+#EXTINF:-1 group-title="⚽️ BEIN SPORT ARABIC  | TV" tvg-id="beINSports3En.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEINSPORT3.png",AR| BEIN SPORTS 3 ENGLISH HD
+http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237130.ts
