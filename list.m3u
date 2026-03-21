@@ -1,10 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/BeIN_Sports_logo.svg", beIN SPORTS 1
-https://scontent.fbsr18-1.fna.fbcdn.net/hvideo-cln-odn/_nc_cat-1/_nc_sr_t-4/v/rASe1Pmi5IblXY-fBVmAEnWfANp-Y4phFkCa-Tnzz6vjjOw/_nc_ohc-22RTtbo0Cb8Q7kNvwHUu6Fs/live-dash/dash-abr-ibr-audio/1425519799613141.mpd?_nc_eui2=AeGLR-oSxkQ3ALxRosqrqjHU-lUle61yaB36VSV7rXJoHWYmtZBpSvb5vJYAWbrpKQGZVb0fx_Iw9pEbABS0P5On&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfyI4t3H9VdAI6_ShwwR6M0JlvOghq8PqRVuBmIUp_QWAw&oe=69BDFC4C
-#EXTINF:-1 group-title="بث مباشر تيك توك" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg", TikTok Live
-https://pull-flv-l11-sg01.tiktokcdn.com/stage/stream-1560198935361355819.flv?_session_id=078-20260320010047E639DB68FA04B8A154A5.1773939653848&_webnoredir=1&abr_pts=-2800&expire=1775149247&sign=22bab3d7559fedf91142ed73ac0689bb
-
+https://scontent.fbsr18-1.fna.fbcdn.net/hvideo-pnb-frc/_nc_cat-107/_nc_sr_t-4/v/rAScagrWpCqtdAusOJ1kzwv1Gi_CAbo0rC4NAdM6JiwqGXw/_nc_ohc-na554eZkwloQ7kNvwGCfQ3A/live-dash/dash-abr-ibr-audio/122130369908994595.mpd?_nc_eui2=AeFpYY2IPrJuA1kerk2I22HeZNFzUBPFr2xk0XNQE8WvbPFWvtGh21DNEvb6y-uqJ-tntS5g3Fi20ceZbIa1m9Wd&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_Afx-z_sYlc0hrIz42FaUZt91QwuCI-z3KYjdoGETa08AcA&oe=69C0C2B6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/BeIN_Sports_logo.svg", الاسطوره 1
 https://www2.manar1.beauty/x1/1.json?token=bca78b706f2ff45faf421846c6263159e861b3d0f0b8ef142595e5f60fbaf463&expires=1773972698
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/BeIN_Sports_logo.svg", beIN SPORTS 2
