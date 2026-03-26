@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TikTok Live - High Quality
+https://pull-flv-l11-sg01.tiktokcdn.com/game/stream-2136692643297230940.flv?_session_id=078-202603261341043F79BC08918FD224A113.1774503665717&_webnoredir=1&expire=1775713265&sign=fa8b5b785c5d898acc70d522ff3495a1
 
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/BeIN_Sports_logo.svg", beIN 
-https://scontent.fbsr18-1.fna.fbcdn.net/hvideo-cco-vll/_nc_cat-1/_nc_sr_t-4/v/rASdXsJw3cM0BuHuzrroPg84bFgiWkHPfVLtQ-3KUfXZBnw/_nc_ohc-F5eh9PooK4QQ7kNvwG50hIk/live-dash/dash-abr-ibr-audio/122125994763166771.mpd?_nc_eui2=AeG_rix-BWfUVFPDcpQdBBk72jg-W9To6SDaOD5b1OjpIKwfVDArOgNXWzhYPnlFtRdnS4Pgz9mv_tUfXjQ37HlD&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AfzXNpl_KXu0tMc7TjKyakBgdVkQu42OC5K6uWnvP3zAqw&oe=69C1DD95
+#EXTINF:-1,TikTok Live - SD Quality (Check if active)
+https://pull-flv-l11-sg01.tiktokcdn.com/game/stream-2136692643297230940_sd5.flv?_session_id=078-20260326135538C4A3DC27F1253C216925.1774504539651&_webnoredir=1&expire=1775714139&sign=1381cd7ef4c614ac90a273505399f275
