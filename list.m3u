@@ -1,6 +1,13 @@
 #EXTM3U
-#EXTINF:-1,TikTok Live - High Quality
-https://pull-flv-l11-sg01.tiktokcdn.com/game/stream-2136692643297230940.flv?_session_id=078-202603261341043F79BC08918FD224A113.1774503665717&_webnoredir=1&expire=1775713265&sign=fa8b5b785c5d898acc70d522ff3495a1
 
-#EXTINF:-1,TikTok Live - SD Quality (Check if active)
-https://scontent.fbsr18-1.fna.fbcdn.net/hvideo-ldc-prn/_nc_cat-1/_nc_sr_t-4/v/rAScBPyuV-7H4OpGr31aeu3AT8G5gr8gr7L8f2NWE3B8oMw/_nc_ohc-w2fm4FP1NSUQ7kNvwG0ynvl/live-dash/dash-abr-ibr-audio/122119997091161269.mpd?_nc_eui2=AeHvDUEWE80-Qak3ZWJx9-pZAd2QftwkNxMB3ZB-3CQ3E5W9Zq6GMnIsCzJ7sD79frCKboYBycjdticED0r5WmMg&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_Afy-JH-Hygw4tqM2JQlCtjIQehvJCRWOA_g2Gi3jnqGhmA&oe=69C784C3
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/BeIN_Sports_logo.svg", beIN 
+https://scontent.fbsr18-2.fna.fbcdn.net/hvideo-ncg-hil/_nc_cat-1/_nc_sr_t-4/v/rASfzNz4wq2-JMsHznBdH5JAwZwci9EHNzUEyfx04FUeYaA/_nc_ohc-kAGQ0iIEAM4Q7kNvwGyX9HT/live-dash/dash-abr-ibr-audio/122120993751221714.mpd?_nc_eui2=AeFAJdUzcrhZYXO-rVW0iWEi-R8QlviPT5T5HxCW-I9PlPwTAxpuE0rZ-RtOKMInhdSsxWGcRIfob7bFGevfHArO&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_Af027jbx5okETUgG8r1XO9Qxh5SGffwV19VQB5u_bMPOTg&oe=69D2C3D3
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/BeIN_Sports_logo.svg", beIN SPORTS 2
+https://scontent.fbsr18-2.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-102/_nc_sr_t-4/v/rASfhcqnUTfuhGb5w9Hoh_lRu6FqVCVY2ur2Reg0rRutioQ/_nc_ohc-x58N_5_PLt8Q7kNvwFyPbRj/live-dash/dash-abr-ibr-audio/122165570900853563.mpd?_nc_eui2=AeHP-VV8D69y6AHzYymZ66g3QlcmAo9B5mNCVyYCj0HmY1VXn4YKcWT6Tns-hAB_vDvznT3GzqaMAbFLBLaBeyCR&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_Af1aEzX88A0ib8SDZuLBllohT7c_CEOkKfDXuS7GtIgyWw&oe=69D2C754
+
+#EXTINF:-1 group-title="القنوات العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/MBC1_Logo.png", MBC 1
+https://scontent.fbsr18-2.fna.fbcdn.net/hvideo-nha-hil/_nc_cat-104/_nc_sr_t-4/v/rASfbmCnpH4N8x6HKwqBupp3oUDGZy9kxF5uZnmaQv1uIOA/_nc_ohc-T5wwDWelGEkQ7kNvwHVAPAL/live-dash/dash-abr-ibr-audio/122165330024405926.mpd?_nc_eui2=AeExaxcEYszeTP2XRCPQVEtomji-ic0KIx-aOL6JzQojHzi35l1KYlTtAqU8ppjA-mE-qPZEa_PKkmH75bBVxpst&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_Afza3ysWnrZR7fKfvkrg-8-rkXx8QO_D6-ZTKqYTaFe2BQ&oe=69C1CC33
+
+#EXTINF:-1 group-title="القنوات العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Iraqiya_TV_logo.png", Al Iraqiya
+حط_الرابط_هنا
