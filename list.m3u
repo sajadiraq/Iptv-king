@@ -1,4 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/BeIN_Sports_logo.svg", beIN 
-https://scontent.fbsr18-1.fna.fbcdn.net/hvideo-odn-lla/_nc_cat-1/_nc_sr_t-4/v/rASfA-PHKcuNcGKULmtJpmHLFKSAc6mCu_wx-_gobOF9M2A/_nc_ohc-39z7TD1q7nEQ7kNvwGe6SdF/live-dash/dash-abr-ibr-audio/122118030027231860.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_Af1-eTHEE2nycCqxOJFao3w8NVf5vONzg4c8CrOQ9zEfIg&oe=69DB2A24
+https://scontent.fbsr18-1.fna.fbcdn.net/hvideo-hil-vll/_nc_cat-1/_nc_sr_t-4/v/rASeQecIAX156KeBNMc2NNnL_qJRrOVMiZcqtCoiEgXP8Cw/_nc_ohc-Zlsi9CHZE4UQ7kNvwHb0i3C/live-dash/dash-abr-ibr-audio/122119809843236371.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_Af2sxeeHX61eIDYpNcD4dlMo3ctxAeizoz7gPKSt30slSQ&oe=69DC5741
+
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/BeIN_Sports_logo.svg", beIN SPORTS 2
+https://scontent.fbsr18-2.fna.fbcdn.net/hvideo-hil-prn/_nc_cat-103/_nc_sr_t-4/v/rASeFycVAHoOY0j__-oNi_WBRR3OMlSnzoivFOPxOMkEm1A/_nc_ohc-eV-lAc6KNH8Q7kNvwFN4yVx/live-dash/dash-abr-ibr-audio/122118521373227477.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_Af2HIH39HSiXATG8dQeXYePKkkOk5-FEJ3zZc0oDGNoIaQ&oe=69DC4BD3
+
+#EXTINF:-1 group-title="القنوات العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/MBC1_Logo.png", MBC 1
+https://scontent.fbsr18-1.fna.fbcdn.net/hvideo-ftw-ncg/_nc_cat-1/_nc_sr_t-4/v/rASelNrwDniWBzvShtNfb_P1FGzty6egFx73Q6dSjGnflqA/_nc_ohc-Ng1735T1ZDgQ7kNvwGJhkUX/live-dash/dash-abr-ibr-audio/122125572147109971.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_Af0TRLevSJOqlP7hTQuq8awFPfPaQD6Y7H66aq0Bh7hnzw&oe=69DC3965
+
+#EXTINF:-1 group-title="القنوات العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Iraqiya_TV_logo.png", Al Iraqiya
+حط_الرابط_هنا
